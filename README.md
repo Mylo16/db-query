@@ -81,27 +81,19 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
   cd my-folder
   git clone git@github.com:Mylo16/db-query.git
 ```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
 ```sh
   cd my-project
   gem install
 ```
---->
 
 ### Run tests
 
