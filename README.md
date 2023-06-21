@@ -84,6 +84,11 @@ Install this project with:
 
 N/A
 
+
+### Schema table
+![schema](https://github.com/Mylo16/db-query/assets/112702953/7057b0a9-518b-41ea-a572-4a23bcaffe39)
+
+
 ### Deployment
 
 N/A
